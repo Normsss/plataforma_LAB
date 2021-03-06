@@ -17,3 +17,5 @@ Esta es la primera prueba de plataforma_LAB
 Cochino código
 
 ````
+- [x] Hecho
+- [] Missing
