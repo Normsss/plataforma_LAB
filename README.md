@@ -12,4 +12,8 @@ Esta es la primera prueba de plataforma_LAB
     gir {
         fijfi
     }
-`````
+````
+````
+Cochino código
+
+````
