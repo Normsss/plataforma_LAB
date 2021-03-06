@@ -1,4 +1,4 @@
-#PLATAFORMA
+# PLATAFORMA
 ## Esto es nuevo
 ### hola `mundo` :open_mouth:
 Esta es la primera prueba de plataforma_LAB
