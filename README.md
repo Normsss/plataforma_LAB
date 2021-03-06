@@ -1,6 +1,6 @@
 #PLATAFORMA
 ## Esto es nuevo
-### hola `mundo`
+### hola `mundo` :open_mouth:
 Esta es la primera prueba de plataforma_LAB
 
 * CHOCOLATE
