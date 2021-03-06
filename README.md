@@ -18,4 +18,4 @@ Cochino código
 
 ````
 - [x] Hecho
-- [] Missing
+- [ ] Missing
