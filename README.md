@@ -1,5 +1,5 @@
-# PLATAFORMA
-## Esto es nuevo
+# PLATAFORMA_LAB
+## Esta es una prueba
 ### hola `mundo` :open_mouth:
 Esta es la primera prueba de plataforma_LAB
 
@@ -8,13 +8,12 @@ Esta es la primera prueba de plataforma_LAB
 * tomates
 
 ````
-    ifgher
-    gir {
-        fijfi
-    }
+.hola-mundo {
+    position: flex;    
+}
 ````
 ````
-Cochino código
+Ejemplo
 
 ````
 - [x] Hecho
